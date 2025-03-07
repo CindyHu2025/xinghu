@@ -10,13 +10,14 @@ The University of Hong Kong
 🔗 [HKU Profile](https://www.hkubs.hku.hk/people/xing-hu/)  
 
 ## About Me
-I am an Associate Professor at the University of Hong Kong in the Faculty of Business and Economics. My research focuses on operations management, dynamic pricing, and online platforms. Previously, I held faculty positions at the University of Oregon and was a visiting professor at UBC Sauder School of Business.
+I am an Associate Professor at the University of Hong Kong in the Faculty of Business and Economics. My research focuses on operations management, dynamic pricing, and online platforms. 
 
 ## Research Interests
 - Revenue Management and Dynamic Pricing  
-- Online Retailing and Platforms  
+- Online Retailing
+- Two-Side Market and Platforms  
 - Models of Incentives and Strategic Interactions  
-- Capacity Sharing and Favor-Trading Systems  
+- ESG related research 
 
 ## Selected Publications
 1. **Revenue Sharing in Airline Alliances**, *Management Science*, 2013  
